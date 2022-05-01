@@ -1,3 +1,3 @@
-# My GitHub Project
+# My Project
 
-This is my GitHub project. I published it directly from Visual Studio Code.
+This is my hostel project. Good Luck
